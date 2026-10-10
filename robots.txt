@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sydb89894-glitch.github.io/elhamamy/sitemap.xml
+Sitemap: https://elhamamygallery.com/sitemap.xml
